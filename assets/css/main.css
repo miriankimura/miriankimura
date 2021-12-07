@@ -1842,7 +1842,9 @@ input, select, textarea {
 				ul.social li a.fa-google-plus {
 					background-color: #DA2713;
 				}
-
+				ul.social li fa fa-envelope {
+					background-color: #FAFAFA;
+				}
 				ul.social li a.fa-github {
 					background-color: #FAFAFA;
 				}
